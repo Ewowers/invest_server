@@ -1,0 +1,6 @@
+{
+  "pg_username": "postgres",
+  "pg_password": "1",
+  "pg_database": "investments",
+  "jwt": "json_web_token_key"
+}
